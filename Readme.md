@@ -1,0 +1,1 @@
+Isso foi um projeto de um tutorial de como fazer jogo da cobrinha em HTML e JavaScript.
